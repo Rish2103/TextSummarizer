@@ -1,0 +1,22 @@
+# Machine Learning Model weights & checkpoints (CRITICAL)
+results/
+results_8k/
+saved_summary_model/
+saved_summary_model_8k/
+*.bin
+*.pt
+*.pth
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files (if you use them)
+.env
+venv/
+env/
